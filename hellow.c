@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Hola, este es el final de la Actividad 1 de Fundamentos de Programación!"); /* prints !!!Hello World!!! */
+	puts("Hola, este es el final de la Actividad 1 de Fundamentos de Programación!"); 
 	return EXIT_SUCCESS;
 }
